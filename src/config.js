@@ -1,4 +1,4 @@
-const dbProduction = "mongodb+srv://arfeli:tornix22@cluster0-twuwn.mongodb.net/test?retryWrites=true&w=majority";
+const dbProduction = "mongodb+srv://alejandro:falopa@cluster0-twuwn.mongodb.net/test?retryWrites=true&w=majority";
 const dbLocal = "mongodb://localhost/mcga";
 const environment = "production";
 const port = process.env.PORT || 3000;
